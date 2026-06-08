@@ -1,4 +1,4 @@
-### 𝐑𝐎𝐒𝐄
+### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐃 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
   
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`**   
   
@@ -9,21 +9,21 @@
 
 <!-- Image -->
 <p align="center">
-  <img src="https://imgur.com/gallery/good-day-PhGDWUM" width="300">
+  <img src="https://i.imgur.com/u7VnPzH.png" width="300">
 </p>
 
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
 
-  <!-- 𝗥𝗨𝗗𝗥𝗢 CHAT BOT -->
+  <!-- SHAHADAT CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    𝗥𝗨𝗗𝗥𝗢 CHAT BOT
+    SHAHADAT CHAT BOT
   </span>
   <br>
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By 𝗥𝗨𝗗𝗥𝗢 
+    Developed By SHAHADAT SAHU
   </span>
 
 </p>
@@ -42,7 +42,7 @@
 
 
   <!-- ⭐ Original Repository -->
-  <a href="https://github.com/shahadat-sahu/">
+  <a href="https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
     <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
   </a>
 
@@ -158,15 +158,15 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `𝗥𝗨𝗗𝗥𝗢`  
-**Nice Name:** `𝗥𝗨𝗗𝗥𝗢`  
+**Name:** `SHAHADAT ISLAM`  
+**Nice Name:** `SA HU`  
 **Profession:** `STUDENT & CHATBOT DEVELOPER`  
-**Location:** `Narayanganj, BANGLADESH`
+**Location:** `KHAGRACHARI, BANGLADESH`
 
 #### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801617655016)
-- **Facebook:** [Profile Me](https://facebook.com/61571107303187)
-- **Messenger:** [Message Me](https://m.me/61571107303187)
+- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
+- **Facebook:** [Profile Me](https://facebook.com/100044713412032)
+- **Messenger:** [Message Me](https://m.me/100044713412032)
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
@@ -186,7 +186,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
   <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/61571107303187">
+  <a href="https://m.me/100044713412032">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -202,7 +202,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 __________
 
-💖 **Thank You For Choosing 𝗥𝗨𝗗𝗥𝗢 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+💖 **Thank You For Choosing 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
 🗓️ *Release Date:* `11/08/2025 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
