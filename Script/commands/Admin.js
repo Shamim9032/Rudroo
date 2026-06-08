@@ -22,20 +22,20 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│ 👤 𝐍𝐚𝐦𝐞 : MD SAKIL HASAN RUDRO 
-│ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Male 
-│ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single 
-│ 🎂 𝐀𝐠𝐞 : 18+
-│ 🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam 
-│ 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : MBA graduation 
-│ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Naryanganj 
+│ 👤 𝐍𝐚𝐦𝐞 : 𝗥𝗨𝗗𝗥𝗢
+│ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : 𝐌𝐚𝐥𝐞 
+│ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : 𝐒𝐢𝐧𝐠𝐥𝐞 
+│ 🎂 𝐀𝐠𝐞 : 𝟏𝟖+
+│ 🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : 𝐈𝐬𝐥𝐚𝐦 
+│ 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝐌𝐁𝐀 
+│ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : 𝐍𝐚𝐫𝐚𝐲𝐚𝐧𝐠𝐚𝐧𝐣 
 └───────────────⭓
 
 ┌───────────────⭓
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
 │ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│ Unknown 
+│ https://www.facebook.com/profile.php?id=61571107303187
 │ 💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
 │ Unknown 
 └───────────────⭓
@@ -49,7 +49,7 @@ module.exports.run = async function({ api, event }) {
  attachment: fs.createReadStream(__dirname + "/cache/owner.jpg")
  }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/owner.jpg"));
 
- return request("https://i.imgur.com/idyXtoO.jpeg")
+ return request("https://imgur.com/a/PhGDWUM")
  .pipe(fs.createWriteStream(__dirname + '/cache/owner.jpg'))
  .on('close', () => callback());
 };
