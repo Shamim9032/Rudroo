@@ -9,7 +9,7 @@
 
 <!-- Image -->
 <p align="center">
-  <img src="https://imgur.com/a/PhGDWUM" width="300">
+  <img src="https://imgur.com/gallery/good-day-PhGDWUM" width="300">
 </p>
 
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
